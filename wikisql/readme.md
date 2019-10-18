@@ -9,10 +9,10 @@ bash scripts/gen_processed_pkl.sh
 2. Evaluate the coverage and generate consistent programs by:
 
 ```
-python scripts/eval_coverage demo 9 
+python scripts/eval_coverage demo 6
 ```
 
-where demo is the experiemnt id and 9 the maximal length of a sketch. 
+where demo is the experiemnt id and 6 the maximal length of a sketch. 
 
 3. Cache the generated programs with:
 

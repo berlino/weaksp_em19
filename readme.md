@@ -13,6 +13,6 @@ The preprocessed data is based on the one provided by [MAPO](https://github.com/
 
 The default embedding file path is "glove/glove.42B.300d.txt". 
 
+## Problems?
 
-
-
+Please open a github issue if you find any problem. Thanks

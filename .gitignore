@@ -2,3 +2,11 @@
 dataset/
 glove/
 *.log
+.DS_Store
+
+
+__pycache__
+*.pkl
+*.programs
+*.stat
+*.model

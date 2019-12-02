@@ -21,6 +21,8 @@ python scripts/cache_lf.py processed/demo.train.programs.sketch.stat processed/d
 python scripts/cache_lf.py processed/demo.test.programs.sketch.stat processed/demo.test.programs test processed/test.pkl
 ```
 
+Do not want to wait for the preprocessing? Here is my [processed files](https://drive.google.com/file/d/1tNauEhpcl21cWHhl5ciQmIHV6fKOjaar/view).
+
 4. Train the model:
 
 ```
@@ -36,7 +38,3 @@ The configs of the training is in train_config/train_config. Currently, two mode
 The checkpoints will be available in checkpoints/
 
 
-
-## TODO
-
-Uploaded the generated programs somewhere.

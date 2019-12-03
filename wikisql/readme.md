@@ -22,6 +22,8 @@ python scripts/cache_lf.py processed/demo.dev.programs.sketch.stat processed/dem
 python scripts/cache_lf.py processed/demo.test.programs.sketch.stat processed/demo.test.programs test processed/test.pkl
 ```
 
+You can skip step1-3 if you downloaded my [processed file](https://drive.google.com/file/d/1dXsx8WJolMDB2AE6QpZ62nDyqwm8tPiL/view?usp=sharing).
+
 4. Train the model:
 
 ```
@@ -38,6 +40,3 @@ The checkpoints will be available in checkpoints/
 
 
 
-## TODO
-
-Uploaded the generated programs somewhere.
